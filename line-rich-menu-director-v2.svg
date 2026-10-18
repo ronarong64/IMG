@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2500" height="843" viewBox="0 0 2500 843">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102b46"/><stop offset="1" stop-color="#176d78"/></linearGradient>
+    <linearGradient id="tile" x2="0" y2="1"><stop stop-color="#ffffff" stop-opacity=".17"/><stop offset="1" stop-color="#ffffff" stop-opacity=".07"/></linearGradient>
+  </defs>
+  <rect width="2500" height="843" fill="url(#bg)"/><circle cx="2320" cy="-25" r="360" fill="#7ee9d4" opacity=".08"/><circle cx="120" cy="840" r="360" fill="#57c9d0" opacity=".08"/>
+  <g font-family="Noto Sans Thai, Tahoma, sans-serif" text-anchor="middle">
+    <g transform="translate(22 22)"><rect width="1210" height="383" rx="34" fill="url(#tile)" stroke="#ffffff" stroke-opacity=".18" stroke-width="3"/><circle cx="267" cy="191" r="103" fill="#35bdc5"/><path d="M267 112c-31 44-54 69-54 99a54 54 0 0 0 108 0c0-30-23-55-54-99z" fill="#fff"/><text x="710" y="184" fill="#fff" font-size="53" font-weight="700">เช็คค่าน้ำ</text><text x="710" y="244" fill="#c3e9e8" font-size="29">ยอดปัจจุบันและสถานะชำระ</text></g>
+    <g transform="translate(1268 22)"><rect width="1210" height="383" rx="34" fill="url(#tile)" stroke="#ffffff" stroke-opacity=".18" stroke-width="3"/><circle cx="267" cy="191" r="103" fill="#f0bd65"/><rect x="224" y="130" width="86" height="120" rx="12" fill="none" stroke="#fff" stroke-width="11"/><path d="M239 160h56m-56 25h56m-56 25h38" stroke="#fff" stroke-width="9" stroke-linecap="round"/><text x="710" y="184" fill="#fff" font-size="50" font-weight="700">ประวัติชำระเงิน</text><text x="710" y="244" fill="#c3e9e8" font-size="29">ดูรายการย้อนหลัง</text></g>
+    <g transform="translate(22 438)"><rect width="1210" height="383" rx="34" fill="url(#tile)" stroke="#ffffff" stroke-opacity=".18" stroke-width="3"/><circle cx="267" cy="191" r="103" fill="#a594f0"/><path d="M225 241v-68h25v68m29 0V137h25v104m29 0v-47h25v47" fill="none" stroke="#fff" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><text x="710" y="184" fill="#fff" font-size="53" font-weight="700">สรุปรายเดือน</text><text x="710" y="244" fill="#c3e9e8" font-size="29">ภาพรวมค่าน้ำประจำเดือน</text></g>
+    <g transform="translate(1268 438)"><rect width="1210" height="383" rx="34" fill="url(#tile)" stroke="#ffffff" stroke-opacity=".18" stroke-width="3"/><circle cx="267" cy="191" r="103" fill="#ef8d82"/><path d="M218 210c0-31 22-56 49-56s49 25 49 56v34h-98zm49-73v-19m49 25 16-15m-130 15-16-15" fill="none" stroke="#fff" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><text x="710" y="184" fill="#fff" font-size="53" font-weight="700">แจ้งข่าวสาร</text><text x="710" y="244" fill="#c3e9e8" font-size="29">ประกาศถึงสมาชิก</text></g>
+  </g>
+  <path d="M1250 42v759M40 422h2420" stroke="#ffffff" stroke-opacity=".16" stroke-width="2"/>
+</svg>
